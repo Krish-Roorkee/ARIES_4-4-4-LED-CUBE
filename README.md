@@ -7,6 +7,7 @@ The project is mainly for entertainment purposes, and can be used for decorative
 ![image](https://github.com/Krish-Roorkee/ARIES_4-4-4-LED-CUBE/assets/101397993/e00c6797-2046-4ebb-b36a-f6758e4f090e)
 
 WORKFLOW:-
+
 1) Testing the LEDs and assembling the 1st layer.
 2) Assembling includes using cardboard to make a frame of the LED mesh. 
  ![image](https://github.com/Krish-Roorkee/ARIES_4-4-4-LED-CUBE/assets/101397993/24e7dae3-cc4f-4a5b-ae71-0fdc205468b4)
