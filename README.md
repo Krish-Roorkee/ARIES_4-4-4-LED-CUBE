@@ -9,13 +9,21 @@ The project is mainly for entertainment purposes, and can be used for decorative
 WORKFLOW:-
 
 1) Testing the LEDs and assembling the 1st layer.
+
 2) Assembling includes using cardboard to make a frame of the LED mesh. 
- ![image](https://github.com/Krish-Roorkee/ARIES_4-4-4-LED-CUBE/assets/101397993/24e7dae3-cc4f-4a5b-ae71-0fdc205468b4)
+
 3) Creating four layers and punching LEDs in the punch holes of cardboard.
+
+ ![image](https://github.com/Krish-Roorkee/ARIES_4-4-4-LED-CUBE/assets/101397993/4f3df77f-318d-45c3-a96d-928ffa3d6aaf)
+ 
 4) Stacking the layers and the cardboard is ready.
+
 5) Writing Arduino code for various patterns and testing them virtually on Tinkercad
+
 6) Designing of PCB and its connections with LED and Arduino
+
 7) Coding in the arduinoi can be modified and better patterns can be created. Good mapping of 3D objects can be done
+
 
 
 
