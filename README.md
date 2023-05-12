@@ -6,9 +6,10 @@ A led cube is like a led screen but it is special as it has 3D.We can think of i
 The project is mainly for entertainment purposes, and can be used for decorative purposes in our houses, offices etc. This cube can act as a mood elevator and can divert your mind from stress causing problems for sometime.
 ![image](https://github.com/Krish-Roorkee/ARIES_4-4-4-LED-CUBE/assets/101397993/e00c6797-2046-4ebb-b36a-f6758e4f090e)
 
-GETTING STARTED:-
+WORKFLOW:-
 1) Testing the LEDs and assembling the 1st layer.
 2) Assembling includes using cardboard to make a frame of the LED mesh. 
+ ![image](https://github.com/Krish-Roorkee/ARIES_4-4-4-LED-CUBE/assets/101397993/24e7dae3-cc4f-4a5b-ae71-0fdc205468b4)
 3) Creating four layers and punching LEDs in the punch holes of cardboard.
 4) Stacking the layers and the cardboard is ready.
 5) Writing Arduino code for various patterns and testing them virtually on Tinkercad
