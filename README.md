@@ -28,7 +28,9 @@ Shift Register IC 74HC595:-
 Sometimes we have a number of modules to connect over our arduino, but Arduino UNO have 14 digital I/O pins, to avoid this problem we can use shift register IC.
 
 Shift register IC is like a 3 input and 8 pin digital output decoder, where we use three pins of arduino for our signal that will be fed to three input lines of IC and from the output of IC we can decode it back into 8 output lines or bits.
+
 ![image](https://github.com/kd2056/ARIES_4-4-4-LED-CUBE/assets/128305932/644366c8-7394-4798-bfd3-7b658c20ed8a)
+
 SHIFT REGISTER IC 74HC595 PIN CONFIGURATION:-
 15, 1, 2, 3, 4, 5, 6, 7	Output Pins (Q0 to Q7)-	The 74hc595 has 8 output pins.
 8	- Ground	Connected to the Ground  of the circuit
