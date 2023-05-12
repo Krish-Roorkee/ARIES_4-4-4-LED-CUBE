@@ -18,11 +18,27 @@ WORKFLOW:-
  
 4) Stacking the layers and the cardboard is ready.
 
-5) Writing Arduino code for various patterns and testing them virtually on Tinkercad
+5) Writing Arduino code for various patterns and testing them virtually on Tinkercad.
 
-6) Designing of PCB and its connections with LED and Arduino
+6) Designing of PCB and its connections with LED and Arduino.
 
-7) Coding in the arduinoi can be modified and better patterns can be created. Good mapping of 3D objects can be done
+7) Coding in the arduino can be modified and better patterns can be created. Good mapping of 3D objects can be done.
+
+Shift Register IC 74HC595:-
+Sometimes we have a number of modules to connect over our arduino, but Arduino UNO have 14 digital I/O pins, to avoid this problem we can use shift register IC.
+
+Shift register IC is like a 3 input and 8 pin digital output decoder, where we use three pins of arduino for our signal that will be fed to three input lines of IC and from the output of IC we can decode it back into 8 output lines or bits.
+![image](https://github.com/kd2056/ARIES_4-4-4-LED-CUBE/assets/128305932/644366c8-7394-4798-bfd3-7b658c20ed8a)
+SHIFT REGISTER IC 74HC595 PIN CONFIGURATION:-
+15, 1, 2, 3, 4, 5, 6, 7	Output Pins (Q0 to Q7)-	The 74hc595 has 8 output pins.
+8	- Ground	Connected to the Ground  of the circuit
+9	(Q7') - Serial Output	This pin is used to connect more than one 74hc595 as cascading (Pin 9 is data out and used when we have to connect another shift register, Feed this pin to next Shift register IC, if connected)
+10	(MR)- Master Reset	Resets all outputs as low. Must be held high for normal operation
+11	(SH_CP)- Clock	This is the clock pin to which the clock signal has to be provided from MCU/MPU
+12	(ST_CP)- Latch	The Latch pin is used to update the data to the output pins.
+13	(OE)- Output Enable	The Output Enable is used to turn off the outputs. Must be held low for normal operation
+14	(DS)- Serial Data	This is the pin to which data is sent, based on which the 8 outputs are controlled
+16	Vcc-	This pin powers the IC, typically +5V is used.
 
 
 
