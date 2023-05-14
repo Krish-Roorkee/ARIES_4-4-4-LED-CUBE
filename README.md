@@ -26,7 +26,10 @@ WORKFLOW:-
 
 7) Coding in the arduino can be modified and better patterns can be created. Good mapping of 3D objects can be done.
 
-Shift Register IC 74HC595:-
+Shift Registers used:-
+
+IC 74HC595:-
+
 Sometimes we have a number of modules to connect over our arduino, but Arduino UNO have 14 digital I/O pins, to avoid this problem we can use shift register IC.
 
 Shift register IC is like a 3 input and 8 pin digital output decoder, where we use three pins of arduino for our signal that will be fed to three input lines of IC and from the output of IC we can decode it back into 8 output lines or bits.
