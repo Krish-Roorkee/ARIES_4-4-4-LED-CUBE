@@ -42,6 +42,27 @@ SHIFT REGISTER IC 74HC595 PIN CONFIGURATION:-
 14	(DS)- Serial Data	This is the pin to which data is sent, based on which the 8 outputs are controlled
 16	Vcc-	This pin powers the IC, typically +5V is used.
 
+TINKERCAD:- Online 3-D Simulator
+
+![WhatsApp Image 2023-05-14 at 00 50 57](https://github.com/Krish-Roorkee/ARIES_4-4-4-LED-CUBE/assets/101397993/4c21363c-e017-41c7-bf3f-e259db978aa3)
+
+1) We made an exact model of the cube along with Arduino and the shift registers for testing our code.
+ 
+2) There were 5 shift registers used. 4 for controlling the 4 levels and 1 for selection of the level.
+
+3) The simulation gave us an idea regarding the resistances to be used and the changes we were supposed to make in the code.
+
+TEAM MEMBERS:-
+1) Ankit Yadav
+2) Karandeep Singh
+3) Krish Shah
+4) Sahil Patel
+
+REFERENCES:-
+4*4*4 LED CUBE : 5 Steps (with Pictures) – Instructables.
+How to Make a 4x4x4 LED Cube Using Arduino | by DiY Projects Lab | Medium
+
+
 
 
 
