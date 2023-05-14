@@ -16,7 +16,7 @@ WORKFLOW:-
 
 3) Creating four layers and punching LEDs in the punch holes of cardboard.
 
- ![image](https://github.com/Krish-Roorkee/ARIES_4-4-4-LED-CUBE/assets/101397993/4f3df77f-318d-45c3-a96d-928ffa3d6aaf)
+                    ![image](https://github.com/Krish-Roorkee/ARIES_4-4-4-LED-CUBE/assets/101397993/4f3df77f-318d-45c3-a96d-928ffa3d6aaf)
  
 4) Stacking the layers and the cardboard is ready.
 
