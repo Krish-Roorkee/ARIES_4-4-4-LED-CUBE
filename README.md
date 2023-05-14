@@ -53,6 +53,7 @@ TINKERCAD:- Online 3-D Simulator
 3) The simulation gave us an idea regarding the resistances to be used and the changes we were supposed to make in the code.
 
 TEAM MEMBERS:-
+
 1) Ankit Yadav
 2) Karandeep Singh
 3) Krish Shah
@@ -61,6 +62,7 @@ TEAM MEMBERS:-
 REFERENCES:-
 
 4*4*4 LED CUBE : 5 Steps (with Pictures) – Instructables.
+
 How to Make a 4x4x4 LED Cube Using Arduino | by DiY Projects Lab | Medium
 
 
