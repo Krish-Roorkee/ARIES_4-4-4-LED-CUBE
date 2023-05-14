@@ -49,7 +49,7 @@ SHIFT REGISTER IC 74HC595 PIN CONFIGURATION:-
 
 TINKERCAD:- Online 3-D Simulator
 
-![WhatsApp Image 2023-05-14 at 00 50 57](https://github.com/Krish-Roorkee/ARIES_4-4-4-LED-CUBE/assets/101397993/4c21363c-e017-41c7-bf3f-e259db978aa3)
+![WhatsApp Image 2023-05-14 at 19 12 28](https://github.com/Krish-Roorkee/ARIES_4-4-4-LED-CUBE/assets/101397993/a7ddcad2-9744-487f-9259-e3da2226897c)
 
 1) We made an exact model of the cube along with Arduino and the shift registers for testing our code.
  
